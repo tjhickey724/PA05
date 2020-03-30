@@ -3,7 +3,7 @@ package lesson19;
 import java.util.Random;
 /**
  *  
- * @author tim
+ * @author tim hickey
  *
  */
 
